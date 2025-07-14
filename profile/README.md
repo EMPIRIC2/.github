@@ -1,7 +1,7 @@
 # EMPIRIC  
 *Emulators of Pacific Island Risk to Infrastructure*
 
-Welcome to the EMPIRIC GitHub Organization. EMPIRIC develops open‑source tools to improve climate model data accessibility and extreme‑event analysis for small island states—initially focusing on Pacific Island nations.
+Welcome to the EMPIRIC GitHub Organization. EMPIRIC develops open‑source tools to improve climate model data accessibility and extreme‑event analysis for small island states—with a focus on Pacific Island Countries and Territories (PICTs).
 
 ---
 
