@@ -4,7 +4,7 @@ EMPIRIC is a group with a shared goal of improving climate model data accessibil
 
 We have produced a number of products which enable enhanced understanding of climate extremes. These include:
 
-The Optimal Path Threshold Method (Zhao, Horvat, and Gao, 2025). A methodology for rigorously identifying extreme events. 
+  The Optimal Path Threshold Method (Zhao, Horvat, and Gao, 2025). A methodology for rigorously identifying extreme events. 
 
 
 <!--
