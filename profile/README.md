@@ -17,11 +17,11 @@ Welcome to the EMPIRIC GitHub Organization. EMPIRIC develops open‑source tools
 
 ## Overview
 
-Small island states face unique challenges in climate‑risk modelling: coarse general circulation models often omit island geographies, and extreme‑event detection with shifting baselines is non‑trivial. EMPIRIC provides:
+Small island states face unique challenges in climate‑risk modelling: coarse general circulation models often omit island geographies, and extreme‑event detection with shifting baselines is non‑trivial. EMPIRIC centers around building:
 
 - **Emulators** for rapid, high‑resolution hazard generation  
 - **Transfer‑learning downscaling** of coarse reanalysis to island‑scale fields  
-- **Statistically robust extreme‑event detection**  
+- **Statistically robust extreme‑event detection methods**  
 - (Planned) **Spatial decision support** integrating health‑infrastructure data  
 
 ---
