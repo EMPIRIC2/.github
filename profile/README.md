@@ -10,11 +10,7 @@ Welcome to the EMPIRIC GitHub Organization. EMPIRIC develops open‑source tools
 - [Overview](#overview)  
 - [Objectives](#objectives)  
 - [Repositories](#repositories)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
 - [Citing EMPIRIC](#citing-empiric)  
-- [License](#license)  
 - [Contact](#contact)  
 
 ---
@@ -52,29 +48,34 @@ All code lives under **[https://github.com/EMPIRIC2](https://github.com/EMPIRIC2
 
 - **EMPIRIC-DS**  
   U‑Net downscaling models for island meteorology.  
-  _Status: Prototype complete; actively maintained._  
+  _Status: Work in progress._  
 
 - **EMPIRIC-TC**  
   Fourier Neural Operator‑based tropical cyclone hazard emulator.  
-  _Status: Alpha release; core features available._  
+  _Status: First release; core features available._  
 
 - **EMPIRIC-OPT**  
   Python implementation of the Optimal Path Threshold method.  
-  _Status: Stable reference implementation._  
+  _Status: Stable Implementation of **[Zhao, Horvat, and Gao](https://iopscience.iop.org/article/10.1088/1748-9326/adae24)**._  
 
 - **EMPIRIC-SDS**  
   Spatial decision support system (GIS web platform).  
-  _Status: Work in progress; planned features documented._  
+  _Status: Work in progress; Initial pre-alpha release at **[https://empiric-tc-model.web.app/](https://empiric-tc-model.web.app/)**._  
 
 ---
 
-## Installation
+If you make use of these tools in published research, kindly cite:
 
-Each repository includes its own `README.md` with detailed setup instructions. In general:
+- **Zhao B., Horvat C., Gao H.** (2025). *An optimal path threshold method for rigorously identifying extreme climate events.* Environmental Research Letters, 20(2), 024048.  
+- **Winkelman E. et al.** (2025). *EMPIRIC TC: A site‑specific AI‑based emulator for tropical cyclone hazards using Fourier Neural Operators.* Journal of Advances in Modeling Earth Systems. (In Review)
 
-```bash
-git clone https://github.com/EMPIRIC2/EMPIRIC-DS.git
-git clone https://github.com/EMPIRIC2/EMPIRIC-TC.git
-git clone https://github.com/EMPIRIC2/EMPIRIC-OPT.git
-# For the SDS platform, please refer to:
-git clone https://github.com/EMPIRIC2/EMPIRIC-SDS.git
+---
+
+## Contact
+
+**Dr. Christopher Horvat**  
+Department of Earth, Environmental & Planetary Sciences  
+Brown University  
+[chhorvat@brown.edu](mailto:horvat@brown.edu)  
+
+We welcome your questions and suggestions.  
