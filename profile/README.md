@@ -2,6 +2,11 @@
 
 EMPIRIC is a group with a shared goal of improving climate model data accessibility for small islands, particulary Pacific Island States. 
 
+We have produced a number of products which enable enhanced understanding of climate extremes. These include:
+
+The Optimal Path Threshold Method (Zhao, Horvat, and Gao, 2025). A methodology for rigorously identifying extreme events. 
+
+
 <!--
 
 **Here are some ideas to get you started:**
