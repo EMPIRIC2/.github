@@ -32,13 +32,13 @@ Small island states face unique challenges in climate‑risk modelling: coarse g
    Rapid synthetic generation of site‑specific cyclone hazard using Fourier Neural Operators.  
 
 2. **Climate Data Downscaling**  
-   Transfer‑learning workflow (U‑Net) to map coarse reanalysis (∼30 km) to high‑resolution (∼2.5 km) meteorology.  
+   Transfer‑learning procedures for one-shot mapping of coarse reanalysis (∼30 km) to high‑resolution (∼2.5 km) meteorological data.  
 
 3. **Extreme Event Detection**  
    Implementation of the Optimal Path Threshold (OPT) method for multifactorial identification of extremes under a shifting climate baseline.  
 
 4. **Spatial Decision Support (Goal)**  
-   Interactive GIS‑based platform to visualise site‑specific risks and uncertainty alongside health‑facility data.  
+   An interactive GIS‑based platform to visualise site‑specific risks and uncertainty alongside health‑facility data.  
 
 ---
 
