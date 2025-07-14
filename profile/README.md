@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the Public Github for the EMPIRIC Project 👋
+
+EMPIRIC is a group with a shared goal of improving climate model data accessibility for small islands, particulary Pacific Island States. 
 
 <!--
 
