@@ -79,3 +79,13 @@ Brown University
 [chhorvat@brown.edu](mailto:horvat@brown.edu)  
 
 We welcome your questions and suggestions.  
+
+## Support
+
+This work has been made possible by the generous support of:
+
+- **Climate Change AI**  
+  - 2023 Innovation Grant: EMPIRIC_AI: AI-enabled Ensemble Projections of Cyclone Risk for Health Infrastructure in Pacific Island Countries and Territories
+
+- **U.S. National Science Foundation (NSF)**  
+  - NSF RISE 2528950: C2H2 EAGER: Site-specific Climate Risks to South Pacific Health and Health Infrastructure.  
