@@ -22,7 +22,7 @@ Small island states face unique challenges in climate‑risk modelling: coarse g
 - **Emulators** for rapid, high‑resolution hazard generation  
 - **Transfer‑learning downscaling** of coarse reanalysis to island‑scale fields  
 - **Statistically robust extreme‑event detection methods**  
-- (Planned) **Spatial decision support** integrating health‑infrastructure data  
+- **Spatial decision support** integrating health‑infrastructure data  
 
 ---
 
