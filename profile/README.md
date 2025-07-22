@@ -51,12 +51,12 @@ All code lives under **[https://github.com/EMPIRIC2](https://github.com/EMPIRIC2
   _Status: Work in progress._  
 
 - **EMPIRIC-TC**  
-  Fourier Neural Operator‑based tropical cyclone hazard emulator.
+  Fourier Neural Operator‑based tropical cyclone hazard emulator.  
   Seen in: EMPIRIC TC: A site-specific AI-based emulator for tropical cyclone hazards using Fourier Neural Operators
   _Status: First release; core features available **[Winkelman et al](._  
 
 - **EMPIRIC-OPT**  
-  Python implementation of the Optimal Path Threshold method.
+  Python implementation of the Optimal Path Threshold method.  
   Seen in: **[Zhao, Horvat, and Gao](https://iopscience.iop.org/article/10.1088/1748-9326/adae24)**:An optimal path threshold method for rigorously identifying extreme climate events
   _Status: Stable Implementation._  
 
