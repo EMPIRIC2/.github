@@ -37,7 +37,7 @@ Small island states face unique challenges in climate‑risk modelling: coarse g
 3. **Extreme Event Detection**  
    Implementation of the Optimal Path Threshold (OPT) method for multifactorial identification of extremes under a shifting climate baseline.  
 
-4. **Spatial Decision Support (Goal)**  
+4. **Spatial Decision Support**  
    An interactive GIS‑based platform to visualise site‑specific risks and uncertainty alongside health‑facility data.  
 
 ---
@@ -52,12 +52,12 @@ All code lives under **[https://github.com/EMPIRIC2](https://github.com/EMPIRIC2
 
 - **EMPIRIC-TC**  
   Fourier Neural Operator‑based tropical cyclone hazard emulator.  
-  Seen in: EMPIRIC TC: A site-specific AI-based emulator for tropical cyclone hazards using Fourier Neural Operators
-  _Status: First release; core features available **[Winkelman et al](._  
+  Seen in: **Winkelman et al (in review):** EMPIRIC TC: A site-specific AI-based emulator for tropical cyclone hazards using Fourier Neural Operators  
+  _Status: First release; core features available._  
 
 - **EMPIRIC-OPT**  
   Python implementation of the Optimal Path Threshold method.  
-  Seen in: **[Zhao, Horvat, and Gao](https://iopscience.iop.org/article/10.1088/1748-9326/adae24)**:An optimal path threshold method for rigorously identifying extreme climate events
+  Seen in: **[Zhao, Horvat, and Gao](https://iopscience.iop.org/article/10.1088/1748-9326/adae24)**: An optimal path threshold method for rigorously identifying extreme climate events  
   _Status: Stable Implementation._  
 
 - **EMPIRIC-SDS**  
