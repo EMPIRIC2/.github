@@ -6,6 +6,8 @@
 
 [![EMPIRIC_TC paper](https://img.shields.io/badge/JAMES%202026-10.1029%2F2025MS004998-1f6feb)](https://doi.org/10.1029/2025MS004998)
 [![OPT paper](https://img.shields.io/badge/ERL%202025-10.1088%2F1748--9326%2Fadae24-1f6feb)](https://doi.org/10.1088/1748-9326/adae24)
+[![WRR paper](https://img.shields.io/badge/WRR%202025-10.1029%2F2025WR040177-1f6feb)](https://doi.org/10.1029/2025WR040177)
+[![PSIDS proceedings](https://img.shields.io/badge/PSIDS%202025-Springer%20proceedings-1f6feb)](#recent-publications)
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
 
 <img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
