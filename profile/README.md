@@ -10,7 +10,7 @@
 
 <img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC_DS" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
 
-<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC_DS. 12 February 2025, 20:00 AST. Puerto Rico was held out of training. Figure: B. Zhao.</sub>
+<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC_DS.</sub>
 
 </div>
 
