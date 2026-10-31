@@ -10,7 +10,7 @@
 
 <img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
 
-<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC.</sub>
+<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled by EMPIRIC.</sub>
 
 </div>
 
