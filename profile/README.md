@@ -22,22 +22,6 @@ While weather-related losses and exposure are concentrated in island regions and
 
 ---
 
-## How the pieces fit together
-
-```mermaid
-flowchart LR
-    A["Global climate models<br/>and reanalysis<br/>(coarse, ~30–100 km)"] --> B["Emulation and<br/>downscaling<br/><b>EMPIRIC_TC</b> · Downscaling"]
-    B --> C["Extreme-event<br/>detection<br/><b>OPT</b>"]
-    C --> D["Decision support<br/>for planners<br/><b>Risk Outlook</b> · <b>SDS</b>"]
-```
-
-1. **Start from what exists.** Global models and reanalysis products are the only long-record, physically consistent picture of the climate, but their resolution is far too coarse for an island.
-2. **Bring it to island scale.** A neural-network emulator reproduces the output of an expensive cyclone model in seconds, and downscaling methods map coarse fields onto fine grids.
-3. **Define "extreme" rigorously.** The Optimal Path Threshold method sets event thresholds objectively, including for compound events and shifting baselines.
-4. **Deliver it where decisions are made.** Interactive maps and outlooks show hazard and uncertainty next to the facilities that matter.
-
----
-
 ## Tools
 
 Status labels are meant literally. **Published** means peer-reviewed and released. **Stable** means the code runs as documented. **Prototype** means it works but is still changing. **In development** means there is no public release yet.
