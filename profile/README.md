@@ -42,6 +42,10 @@ EMPIRIC centers on the development of several tools:
 
 **Zhao B., Horvat C., Gao H.** (2025). *An optimal path threshold method for rigorously identifying extreme climate events.* Environmental Research Letters, 20(2), 024048. [doi:10.1088/1748-9326/adae24](https://doi.org/10.1088/1748-9326/adae24)
 
+**Zhao B., Horvat C., Pearson C., Shah D., Gao H.** (2025). *Regional variations in drivers of extreme reference evapotranspiration across the contiguous United States.* Water Resources Research, 61(10), e2025WR040177. [doi:10.1029/2025WR040177](https://doi.org/10.1029/2025WR040177)
+
+**Şalap-Ayça S., Mannino A., Horvat C., et al.** (2026). *Geospatial data in loss and damage in Pacific Small Island Developing States: insights, gaps and opportunities.* In *Research Symposium on Loss and Damage in Pacific Small Island Developing States: Proceedings of PSIDS 2025.* Springer Nature.
+
 If you use these tools in published work, please cite the corresponding paper and, for EMPIRIC_TC, the Zenodo release you used.
 
 ---
