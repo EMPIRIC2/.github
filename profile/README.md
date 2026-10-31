@@ -22,17 +22,17 @@ While weather-related losses and exposure are concentrated in island regions and
 
 EMPIRIC centers on the development of several tools:
 
-1. **EMPIRIC_DS: kilometre-scale downscaling.** Downscaling of meteorological fields to kilometre scale, on timescales of hours to centuries, using a generative transfer-learning approach. In development; code not yet public.
+1. **EMPIRIC_DS: kilometre-scale downscaling.** Generative transfer learning that maps coarse meteorological fields to kilometre scale, on timescales of hours to centuries. In development.
 
-2. **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC): tropical cyclone prediction.** A Fourier Neural Operator emulator of the STORM statistical-dynamical tropical cyclone model, producing site-specific cyclone hazard for the South Pacific in seconds rather than hours. Published (Winkelman et al., 2026); code, trained models, and test data released as [v1.2 on Zenodo](https://zenodo.org/records/16876981).
+2. **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC): tropical cyclone prediction.** A Fourier Neural Operator emulator of the STORM tropical cyclone model. Produces site-specific cyclone hazard for the South Pacific in seconds. Winkelman et al. (2026); code and trained models at [v1.2 on Zenodo](https://zenodo.org/records/16876981).
 
-3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method, a dynamic-programming approach that sets the thresholds defining an extreme or compound event at a chosen severity level, under a shifting climate baseline. Published (Zhao, Horvat, and Gao, 2025); reference implementation released. Now being applied, with CHAIRS-C at the Brown School of Public Health, to compound extreme events and older-adult health in Rhode Island.
+3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method: dynamic programming that sets the thresholds defining extreme and compound events at a chosen severity, under a shifting climate baseline. Zhao, Horvat, and Gao (2025). Now applied with CHAIRS-C to compound extremes and older-adult health in Rhode Island.
 
-4. **EMPIRIC_SDS: spatial decision support.** A browser-based GIS platform showing site-specific hazard and its uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
+4. **EMPIRIC_SDS: spatial decision support.** A web GIS platform showing site-specific hazard and uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
 
-5. **[Risk outlooks for coastal regions](https://github.com/EMPIRIC2/opt-ui-forecast).** Four-week outlooks of the chance of an extreme weather day, by county and event type, built by applying OPT thresholds to subseasonal-to-seasonal forecast ensembles. [Prototype for Rhode Island](https://empiric2.github.io/opt-ui-forecast/).
+5. **[Risk outlooks for coastal regions](https://github.com/EMPIRIC2/opt-ui-forecast).** Four-week outlooks of the chance of an extreme weather day, by county and event type, from OPT thresholds applied to subseasonal-to-seasonal forecast ensembles. [Rhode Island prototype](https://empiric2.github.io/opt-ui-forecast/).
 
-6. **[TAC-to-IWXXM](https://github.com/EMPIRIC2/TAC-to-IWXXM): future-proofing meteorological data.** Conversion of aviation weather messages (METAR, SPECI, TAF, SIGMET) from traditional alphanumeric code to the WMO IWXXM standard, with validation. In production at [app.tac-to-iwxxm.com](https://app.tac-to-iwxxm.com).
+6. **[TAC-to-IWXXM](https://github.com/EMPIRIC2/TAC-to-IWXXM): future-proofing meteorological data.** Converts aviation weather messages (METAR, SPECI, TAF, SIGMET) from traditional alphanumeric code to the WMO IWXXM standard, with validation. In production at [app.tac-to-iwxxm.com](https://app.tac-to-iwxxm.com).
 
 ---
 
@@ -46,13 +46,13 @@ EMPIRIC centers on the development of several tools:
 
 **Şalap-Ayça S., Mannino A., Horvat C., et al.** (2026). *Geospatial data in loss and damage in Pacific Small Island Developing States: insights, gaps and opportunities.* In *Research Symposium on Loss and Damage in Pacific Small Island Developing States: Proceedings of PSIDS 2025.* Springer Nature.
 
-If you use these tools in published work, please cite the corresponding paper and, for EMPIRIC_TC, the Zenodo release you used.
+If you use these tools, please cite the corresponding paper.
 
 ---
 
 ## Support
 
-This work is made possible by:
+EMPIRIC is supported by:
 
 - **Climate Change AI**, 2023 Innovation Grant: *EMPIRIC_AI: AI-enabled Ensemble Projections of Cyclone Risk for Health Infrastructure in Pacific Island Countries and Territories*
 - **U.S. National Science Foundation**, RISE 2528950: *C2H2 EAGER: Site-specific Climate Risks to South Pacific Health and Health Infrastructure*
@@ -67,4 +67,4 @@ This work is made possible by:
 Department of Earth, Environmental & Planetary Sciences, Brown University
 [chhorvat@brown.edu](mailto:chhorvat@brown.edu)
 
-Questions, suggestions, and collaboration requests are welcome.
+Questions and collaborations welcome.
