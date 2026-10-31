@@ -7,7 +7,6 @@
 [![EMPIRIC_TC paper](https://img.shields.io/badge/JAMES%202026-10.1029%2F2025MS004998-1f6feb)](https://doi.org/10.1029/2025MS004998)
 [![OPT paper](https://img.shields.io/badge/ERL%202025-10.1088%2F1748--9326%2Fadae24-1f6feb)](https://doi.org/10.1088/1748-9326/adae24)
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -17,27 +16,19 @@ While weather-related losses and exposure are concentrated in island regions and
 
 ## Tools
 
-| Tool | What it does | Status |
-|---|---|---|
-| **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC)** | A Fourier Neural Operator (a neural network that learns mappings between spatial fields) trained to emulate the STORM statistical-dynamical tropical cyclone model. Given a map of where storms form, it returns ensemble-mean cyclone hazard for the South Pacific at 0.5° resolution in seconds instead of hours. Trained models and test data are attached to each release. | **Published** · v1.2 · [Zenodo](https://zenodo.org/records/16876981) · MIT |
-| **[OPT_method](https://github.com/EMPIRIC2/OPT_method)** | Reference implementation of the Optimal Path Threshold (OPT) method, a dynamic-programming approach that finds the thresholds defining an extreme event at a chosen severity level. Works for single variables and for compound events in two or three dimensions. Requires only Python and NumPy. | **Stable** · MIT |
-| **[Rhode Island Weather Risk Outlook](https://github.com/EMPIRIC2/opt-ui-forecast)** | A four-week outlook of the chance of an extreme day, by county and event type (hot, cold, wet, windy, and compound combinations), built by applying OPT thresholds to subseasonal-to-seasonal forecast ensembles. A test bed for the method on a region with dense observations before it is applied to the Pacific. [Live page](https://empiric2.github.io/opt-ui-forecast/). | **Prototype** · not an official warning product |
-| **Spatial Decision Support (SDS)** | A browser-based GIS platform that shows site-specific cyclone hazard and its uncertainty alongside health-facility locations. [Pre-alpha demo](https://empiric-tc-model.web.app/). | **Prototype** · pre-alpha |
-| **Downscaling** | Transfer-learning methods for mapping coarse reanalysis (about 30 km) to island-scale meteorological fields (about 2.5 km) with very little local training data. | **In development** · no public code yet |
+EMPIRIC centers on the development of several tools:
 
-### Also hosted in this organization
+1. **EMPIRIC_DS: kilometre-scale downscaling.** Downscaling of meteorological fields to kilometre scale, on timescales of hours to centuries, using a generative transfer-learning approach. In development; code not yet public.
 
-- **[TAC-to-IWXXM](https://github.com/EMPIRIC2/TAC-to-IWXXM)** converts aviation weather messages (METAR, SPECI, TAF, SIGMET) from traditional alphanumeric code to the WMO IWXXM XML standard, with schema validation. A production service runs at [app.tac-to-iwxxm.com](https://app.tac-to-iwxxm.com).
+2. **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC): tropical cyclone prediction.** A Fourier Neural Operator emulator of the STORM statistical-dynamical tropical cyclone model, producing site-specific cyclone hazard for the South Pacific in seconds rather than hours. Published (Winkelman et al., 2026); code, trained models, and test data released as [v1.2 on Zenodo](https://zenodo.org/records/16876981).
 
----
+3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method, a dynamic-programming approach that sets the thresholds defining an extreme or compound event at a chosen severity level, under a shifting climate baseline. Published (Zhao, Horvat, and Gao, 2025); reference implementation released.
 
-## Who this is for
+4. **EMPIRIC_SDS: spatial decision support.** A browser-based GIS platform showing site-specific hazard and its uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
 
-- **Meteorological services and disaster-management offices** in PICTs that need hazard projections for their own islands, not for the ocean grid cell around them.
-- **Health-system planners** deciding where to site, harden, or relocate facilities.
-- **Researchers** who need a fast cyclone-hazard emulator, or an objective way to define extreme and compound events in a non-stationary climate.
+5. **[Risk outlooks for coastal regions](https://github.com/EMPIRIC2/opt-ui-forecast).** Four-week outlooks of the chance of an extreme weather day, by county and event type, built by applying OPT thresholds to subseasonal-to-seasonal forecast ensembles. [Prototype for Rhode Island](https://empiric2.github.io/opt-ui-forecast/).
 
-Everything here is open source under the MIT license. Issues and pull requests are welcome on any repository.
+6. **[TAC-to-IWXXM](https://github.com/EMPIRIC2/TAC-to-IWXXM): future-proofing meteorological data.** Conversion of aviation weather messages (METAR, SPECI, TAF, SIGMET) from traditional alphanumeric code to the WMO IWXXM standard, with validation. In production at [app.tac-to-iwxxm.com](https://app.tac-to-iwxxm.com).
 
 ---
 
