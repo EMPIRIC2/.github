@@ -9,13 +9,6 @@
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/downscaling_schematic_dark.png">
-  <img alt="Two maps of Viti Levu, Fiji. Left: 2-m air temperature on a 0.25-degree reanalysis grid, where the island is a handful of blocks. Right: the same field at 2.5 km, resolving the cool highlands and warm coasts." src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/downscaling_schematic_light.png" width="900">
-</picture>
-
-<sub>The resolution gap EMPIRIC works on. Left: a 0.25° reanalysis grid, the input available everywhere. Right: the 2.5 km island scale our downscaling targets. Schematic with synthetic fields on a real coastline, not model output.</sub>
-
 </div>
 
 While weather-related losses and exposure are concentrated in island regions and along coastlines, these areas are often missing or poorly resolved in weather and climate models, whose grid resolutions are 25 km or coarser. EMPIRIC's mission is to provide cutting-edge, high-quality data for these regions using a suite of tools developed, or in active development, by our team, to enable decision-makers in small island states and coastal areas to make meaningful, informed, stakeholder-driven decisions.
