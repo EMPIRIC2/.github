@@ -2,7 +2,7 @@
 
 # EMPIRIC
 
-### High-resolution predictions, from weather to climate, for islands and coastal areas
+### High-resolution, high-quality weather and climate predictions for small islands and coastal regions
 
 [![EMPIRIC_TC paper](https://img.shields.io/badge/JAMES%202026-10.1029%2F2025MS004998-1f6feb)](https://doi.org/10.1029/2025MS004998)
 [![OPT paper](https://img.shields.io/badge/ERL%202025-10.1088%2F1748--9326%2Fadae24-1f6feb)](https://doi.org/10.1088/1748-9326/adae24)
