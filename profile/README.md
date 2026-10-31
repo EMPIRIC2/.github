@@ -22,7 +22,7 @@ EMPIRIC centers on the development of several tools:
 
 2. **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC): tropical cyclone prediction.** A Fourier Neural Operator emulator of the STORM statistical-dynamical tropical cyclone model, producing site-specific cyclone hazard for the South Pacific in seconds rather than hours. Published (Winkelman et al., 2026); code, trained models, and test data released as [v1.2 on Zenodo](https://zenodo.org/records/16876981).
 
-3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method, a dynamic-programming approach that sets the thresholds defining an extreme or compound event at a chosen severity level, under a shifting climate baseline. Published (Zhao, Horvat, and Gao, 2025); reference implementation released.
+3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method, a dynamic-programming approach that sets the thresholds defining an extreme or compound event at a chosen severity level, under a shifting climate baseline. Published (Zhao, Horvat, and Gao, 2025); reference implementation released. Now being applied, with CHAIRS-C at the Brown School of Public Health, to compound extreme events and older-adult health in Rhode Island.
 
 4. **EMPIRIC_SDS: spatial decision support.** A browser-based GIS platform showing site-specific hazard and its uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
 
@@ -32,7 +32,7 @@ EMPIRIC centers on the development of several tools:
 
 ---
 
-## Publications
+## Recent publications
 
 **Winkelman E., McCrystall M., Forbes C., Dresdner G., Kafoa B., Natuzzi E., Taylor S., McLeod E., Horvat C.** (2026). *EMPIRIC_TC: A site-specific AI-based emulator for tropical cyclone hazards using Fourier Neural Operators.* Journal of Advances in Modeling Earth Systems. [doi:10.1029/2025MS004998](https://doi.org/10.1029/2025MS004998)
 
@@ -48,12 +48,14 @@ This work is made possible by:
 
 - **Climate Change AI**, 2023 Innovation Grant: *EMPIRIC_AI: AI-enabled Ensemble Projections of Cyclone Risk for Health Infrastructure in Pacific Island Countries and Territories*
 - **U.S. National Science Foundation**, RISE 2528950: *C2H2 EAGER: Site-specific Climate Risks to South Pacific Health and Health Infrastructure*
+- **CHAIRS-C, Brown University School of Public Health**, Pilot Grant: *Robust Associations between Multi-Type Compound Extreme Events and Older Adult Health*
+- **Brown University Office of Sustainability & Resiliency**, 2025 Sustainability Seed Grant: *Tracking and Forecasting Health Impacts of Compound Extreme Climate Impacts in the Providence Area*
 
 ---
 
 ## Contact
 
-**Dr. Christopher Horvat**
+**Prof. Christopher Horvat**
 Department of Earth, Environmental & Planetary Sciences, Brown University
 [chhorvat@brown.edu](mailto:chhorvat@brown.edu)
 
