@@ -26,7 +26,7 @@ EMPIRIC centers on the development of several tools:
 
 2. **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC): tropical cyclone prediction.** A Fourier Neural Operator emulator of the STORM tropical cyclone model. Produces site-specific cyclone hazard for the South Pacific in seconds. Winkelman et al. (2026); code and trained models at [v1.2 on Zenodo](https://zenodo.org/records/16876981).
 
-3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method: dynamic programming that sets the thresholds defining extreme and compound events at a chosen severity, under a shifting climate baseline. Zhao, Horvat, and Gao (2025). Now applied with CHAIRS-C to compound extremes and older-adult health in Rhode Island.
+3. **[OPT](https://github.com/EMPIRIC2/OPT_method): optimal extreme statistics.** The Optimal Path Threshold method determines the optimal characterization of extremes, with applications in human health, sea ice loss, evaporation, and agriculture. Zhao, Horvat, and Gao (2025).
 
 4. **EMPIRIC_SDS: spatial decision support.** A web GIS platform showing site-specific hazard and uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
 
