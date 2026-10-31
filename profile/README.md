@@ -8,6 +8,10 @@
 [![OPT paper](https://img.shields.io/badge/ERL%202025-10.1088%2F1748--9326%2Fadae24-1f6feb)](https://doi.org/10.1088/1748-9326/adae24)
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
 
+<img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC_DS" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
+
+<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC_DS. 12 February 2025, 20:00 AST. Puerto Rico was held out of training. Figure: B. Zhao.</sub>
+
 </div>
 
 While weather-related losses and exposure are concentrated in island regions and along coastlines, these areas are often missing or poorly resolved in weather and climate models, whose grid resolutions are 25 km or coarser. EMPIRIC's mission is to provide cutting-edge, high-quality data for these regions using a suite of tools developed, or in active development, by our team, to enable decision-makers in small island states and coastal areas to make meaningful, informed, stakeholder-driven decisions.
