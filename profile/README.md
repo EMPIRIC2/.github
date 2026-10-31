@@ -8,9 +8,9 @@
 [![OPT paper](https://img.shields.io/badge/ERL%202025-10.1088%2F1748--9326%2Fadae24-1f6feb)](https://doi.org/10.1088/1748-9326/adae24)
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
 
-<img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC_DS" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
+<img alt="2 m air temperature over Puerto Rico at 2.5 km resolution, downscaled by EMPIRIC" src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/puerto_rico_t2m_2p5km.png" width="792">
 
-<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC_DS.</sub>
+<sub>2 m air temperature over Puerto Rico at 2.5 km, downscaled from ERA5 by EMPIRIC.</sub>
 
 </div>
 
