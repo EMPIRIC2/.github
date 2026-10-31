@@ -24,8 +24,6 @@ While weather-related losses and exposure are concentrated in island regions and
 
 ## Tools
 
-Status labels are meant literally. **Published** means peer-reviewed and released. **Stable** means the code runs as documented. **Prototype** means it works but is still changing. **In development** means there is no public release yet.
-
 | Tool | What it does | Status |
 |---|---|---|
 | **[EMPIRIC_TC](https://github.com/EMPIRIC2/EMPIRIC_TC)** | A Fourier Neural Operator (a neural network that learns mappings between spatial fields) trained to emulate the STORM statistical-dynamical tropical cyclone model. Given a map of where storms form, it returns ensemble-mean cyclone hazard for the South Pacific at 0.5° resolution in seconds instead of hours. Trained models and test data are attached to each release. | **Published** · v1.2 · [Zenodo](https://zenodo.org/records/16876981) · MIT |
