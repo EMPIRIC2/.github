@@ -9,6 +9,13 @@
 [![EMPIRIC_TC on Zenodo](https://img.shields.io/badge/Zenodo-EMPIRIC__TC%20v1.2-0f7b8a)](https://zenodo.org/records/16876981)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/downscaling_schematic_dark.png">
+  <img alt="Two maps of Viti Levu, Fiji. Left: 2-m air temperature on a 0.25-degree reanalysis grid, where the island is a handful of blocks. Right: the same field at 2.5 km, resolving the cool highlands and warm coasts." src="https://raw.githubusercontent.com/EMPIRIC2/.github/main/profile/figures/downscaling_schematic_light.png" width="900">
+</picture>
+
+<sub>The resolution gap EMPIRIC works on. Left: a 0.25° reanalysis grid, the input available everywhere. Right: the 2.5 km island scale our downscaling targets. Schematic with synthetic fields on a real coastline, not model output.</sub>
+
 </div>
 
 Global climate models run on grids of 50 to 100 km. Most Pacific islands are smaller than a single grid cell, so they are missing from the models that are supposed to describe their future. EMPIRIC builds open, machine-learning-based tools that fill that gap: fast emulators of tropical cyclone hazard, statistically sound definitions of extreme events, and web interfaces that put the results in the hands of the people who plan for them. Our focus is Pacific Island Countries and Territories (PICTs), and the health systems and infrastructure that have to withstand what comes.
