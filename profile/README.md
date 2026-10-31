@@ -32,7 +32,7 @@ EMPIRIC centers on the development of several tools:
 
 4. **EMPIRIC_SDS: spatial decision support.** A web GIS platform showing site-specific hazard and uncertainty alongside health-facility data. [Pre-alpha demo](https://empiric-tc-model.web.app/).
 
-5. **[Risk outlooks for coastal regions](https://github.com/EMPIRIC2/opt-ui-forecast).** Four-week outlooks of the chance of an extreme weather day, by county and event type, from OPT thresholds applied to subseasonal-to-seasonal forecast ensembles. [Rhode Island prototype](https://empiric2.github.io/opt-ui-forecast/).
+5. **[Risk outlooks for coastal regions](https://github.com/EMPIRIC2/opt-ui-forecast).** OPT-enabled forecasting of compound extremes on sub-seasonal timescales: probabilistic outlooks of when extreme-event risk is rising, how high it may be, and which conditions drive it. [Rhode Island prototype](https://empiric2.github.io/opt-ui-forecast/).
 
 6. **[TAC-to-IWXXM](https://github.com/EMPIRIC2/TAC-to-IWXXM): future-proofing meteorological data.** Converts aviation weather messages (METAR, SPECI, TAF, SIGMET) from traditional alphanumeric code to the WMO IWXXM standard, with validation. In production at [app.tac-to-iwxxm.com](https://app.tac-to-iwxxm.com).
 
