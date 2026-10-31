@@ -18,7 +18,7 @@
 
 </div>
 
-Global climate models run on grids of 50 to 100 km. Most Pacific islands are smaller than a single grid cell, so they are missing from the models that are supposed to describe their future. EMPIRIC builds open, machine-learning-based tools that fill that gap: fast emulators of tropical cyclone hazard, statistically sound definitions of extreme events, and web interfaces that put the results in the hands of the people who plan for them. Our focus is Pacific Island Countries and Territories (PICTs), and the health systems and infrastructure that have to withstand what comes.
+While weather-related losses and exposure are concentrated in island regions and along coastlines, these areas are often missing or poorly resolved in weather and climate models, whose grid resolutions are 25 km or coarser. EMPIRIC's mission is to provide cutting-edge, high-quality data for these regions using a suite of tools developed, or in active development, by our team.
 
 ---
 
